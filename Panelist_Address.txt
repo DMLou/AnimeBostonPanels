@@ -1,0 +1,20 @@
+Dear <FirstName> <LastName>:
+
+This email is to confirm that your mailing address for your
+reimbursement is correct and has not changed since you applied for your
+panel. The address I currently have on file for you is:
+
+<FirstName> <LastName>
+<Address>
+<Address2>
+<City>, <StateOrProvince> <PostalCode>
+<CountryOrRegion>
+
+If this is correct, you do not need to do anything else. If this is
+incorrect, please respond with the correct address.
+
+Thank you.
+
+--
+
+Anime Boston Panels Programming Manager

@@ -1,0 +1,6 @@
+Thumbs.db
+*.lck
+*.swp
+*.log.*
+*.csv
+.~lock*

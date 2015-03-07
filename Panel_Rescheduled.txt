@@ -1,0 +1,16 @@
+Hello,
+
+This email is to let you know that your panel titled:
+
+<PanelName>
+
+has been RESCHEDULED for Anime Boston 2014.
+
+For the time being, your panel has been rescheduled for <PanelRoom> on
+<Day> starting at <StartTime> and running for <PanelLength> minutes.
+
+Thank you.
+
+--
+
+Anime Boston Panels Coordinator
