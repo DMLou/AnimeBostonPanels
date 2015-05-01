@@ -5,12 +5,7 @@ on Anime Boston panel planning.
 
 # Status
 
-As of now, everything is here except for the LibreOffice database I used to hold
-panel records. Basically, I need to create a version that contains only empty
-tables with no personal data, but due to Java issues on my computer that I
-haven't been able to work out, I haven't been able to access it.
-
-I for one can't wait until LibreOffice ditches the Java-based database for Base.
+Everything is now here, including a database sanitized of personal information.
 
 # License
 
